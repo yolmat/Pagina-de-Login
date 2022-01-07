@@ -1,7 +1,7 @@
 # Login Page
 
 
-<img src="./img/login.png" alt="Page for login" width="400px;">
+<img src="./img/Login.png" alt="Page for login" width="400px;">
 
 > Resultado do projeto de Login.
 ### Ajustes e melhorias
